@@ -1,0 +1,22 @@
+.navbar-main{
+    background-color: rgb(29, 28, 28);
+    .navbar-ul{
+        display: flex;
+        flex-direction: row;
+        gap: 20px;
+        justify-content: right;
+        align-items: center;
+        margin-right: 50px;
+        list-style: none;
+        color: white;
+        
+        padding:10px 10px;
+        .navbar-li{
+            .navbar-link{
+                text-decoration: none;
+                /* color : white; */
+              
+            }
+        }
+    }
+}

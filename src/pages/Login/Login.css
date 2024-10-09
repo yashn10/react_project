@@ -1,0 +1,27 @@
+.container {
+  margin-top: 50px;
+}
+
+.login-form-title {
+  text-align: center;
+  margin-top: 50px;
+}
+.card {
+  padding: 20px;
+}
+
+.card-title {
+  margin-bottom: 20px;
+}
+
+.btn-link {
+  padding: 0;
+  border: none;
+  background: none;
+  color: #007bff;
+  cursor: pointer;
+}
+
+.btn-link:hover {
+  text-decoration: underline;
+}
